@@ -41,5 +41,3 @@ Apaixonado por tecnologia
 )
 ![Tecnologia](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 )
-![Tecnologia](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
-)
