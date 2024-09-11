@@ -1,7 +1,8 @@
 ### Ola! Sou o Victor Machado
 
 
-Sou estudante de engenharia de softawe na PUC Minas
+Sou estudante de Engenharia de Software, atualmente estou no quarto
+período na universidade PUC Minas
 
 
 [![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
@@ -9,7 +10,6 @@ Sou estudante de engenharia de softawe na PUC Minas
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/victormachado003/)
 
-![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=thoth003&show_icons=true&theme=dracula)
 
 ### Tecnologias 
 
@@ -23,8 +23,6 @@ Sou estudante de engenharia de softawe na PUC Minas
 ![Tecnologia](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 )
 ![Tecnologia](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-)
-![Tecnologia](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )
 ![Tecnologia](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white
 )
